@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeaAcosta
 - 👀 I’m interested in becoming a computer programmer. 
-- 🌱 I’m currently learning HTML, Javascript, CSS & Spark Framework.
+- 🌱 I’m currently learning HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on any project that helps me reach my goal
 
 
